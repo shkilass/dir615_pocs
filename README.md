@@ -19,7 +19,7 @@ Tested on **Kali Linux**.
 
 #### D-Link DIR-615 TFTP Credentials Disclosure (PoC)
 
-This exploit is more interesting, this allows to get **passwd**, **shadow** files. And this doesn't need authorization, root privileges.
+This exploit is more interesting, this allows to get **passwd**, **shadow** files. And this doesn't need authorization, root privileges. If you know, where router admin password is, you can open issue or rewrite this script to get it files.
 
 Example usage:
 ```shell
